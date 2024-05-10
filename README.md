@@ -7,9 +7,7 @@
     A passionate Backend Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
 </h3>
 
-<p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Whale" width="150" height="150">
-</p>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Whale" width="150" height="150">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="30" height="30" /> I’m currently learning **Node.js**
 
@@ -36,10 +34,10 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium Light Skin Tone" width="30" height="30" />
 </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/faizkurniawan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=faiz.kurnicloud@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/faizzkrnwn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/445547884083937300" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/faizkurniawan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" hspace="10" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=faiz.kurnicloud@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" hspace="10" /></a>
+  <a href="https://instagram.com/faizzkrnwn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" hspace="10" /></a>
+  <a href="https://discord.com/users/445547884083937300" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" hspace="10" /></a>
 </p>
 
 
