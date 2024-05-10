@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=overdoshit.overdoshit" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faiz+Kurniawan!;+Backend+Developer;Cyber+Security+Enthusiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&pause=500&lines=Hi+There!+👋🏼;+I'm+Faiz+Kurniawan!;+Backend+Developer;Cyber+Security+Enthusiast;" />
 </h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **Node.js, Spring Boot**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Express.js**
 
