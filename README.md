@@ -39,6 +39,8 @@
   <a href="https://instagram.com/faizzkrnwn" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" hspace="10" /></a>
   <a href="https://discord.com/users/445547884083937300" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" hspace="10" /></a>
 </p>
-
-
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ukkLizMsvtXJ4X7LMTGvq6MWf_uvcRdZ/view?usp=sharing" target="blank">Resume</a>
+  <a> | </a>
+  <a href="https://drive.google.com/file/d/1vIz--U02xFj8rAlu19QanmwehKVTEUYs/view?usp=sharing" target="blank">Portofolio</a>
+</p>
