@@ -42,5 +42,5 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/1ukkLizMsvtXJ4X7LMTGvq6MWf_uvcRdZ/view?usp=sharing" target="blank">Resume</a>
   <a> | </a>
-  <a href="https://drive.google.com/file/d/1vIz--U02xFj8rAlu19QanmwehKVTEUYs/view?usp=sharing" target="blank">Portofolio</a>
+  <a href="https://drive.google.com/file/d/16G2IboS7hpv-u5x8a-5J5lO7q4s3z9aO/view?usp=sharing" target="blank">Portofolio</a>
 </p>
