@@ -11,11 +11,9 @@
 
 <a href="https://github.com/overdoshit" target="_blank"><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="150" height="150"></a>
 
-- <a href="https://github.com/overdoshit" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="30" height="30"></a> I’m currently learning **Laravel 11**
+- <a href="https://github.com/overdoshit" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="30" height="30"></a> I’m currently learning **Golang**
 
 - <a href="https://github.com/overdoshit" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="30" height="30"></a> Ask me about **Express.js**
-
-- <a href="https://github.com/overdoshit" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="30" height="30"></a> Fun fact **I’m Nocturnal**
 
 <h2 align="center">
     <a href="https://github.com/overdoshit" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="30" height="30"></a>
